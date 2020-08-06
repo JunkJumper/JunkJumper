@@ -1,6 +1,6 @@
 # Welcome to my profile !
 
-![Banner](https://stuff.junkjumper-projects.com/wp-content/uploads/2019/10/web-banner.jpg)
+![Banner](https://stuff.junkjumper-projects.com/wp-content/uploads/2020/08/bannerGithub.png)
 
 🍎 I'm JunkJumper, a shy 20 years old computer science student.
 
