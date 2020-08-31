@@ -8,6 +8,5 @@
 
 ⚽ OGC Nice Supporter (Pierre Lees-Melou best player)
 
-[🐦 My Twitter](https://twitter.com/JunkJumper64)
 
 [🌐 My Website](https://www.junkjumper-projects.com/)
