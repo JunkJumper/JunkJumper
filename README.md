@@ -2,12 +2,11 @@
 
 # 🍎 Hey there ! I'm JunkJumper, a shy 20 years old computer science student.
 
-- 🔭 I’m currently working on projects for my school 
-- 🌱 I’m currently learning javascript 
-- 🤔 I’m looking for help with mathematics 
+- 🔭 I’m currently learning with my school :D
+- 🤔 I’m looking for help with mathematics because i'm bad D: 
 - 💬 Ask me about anything. If I can help you, i'll be glad to ^^ 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I like apples 
+- 😄 Pronouns: She/Her (Elle/Ælle)
+- ⚡ Fun fact: I like apples (because I love Applejack)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JunkJumper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.junkjumper-projects.com/) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
