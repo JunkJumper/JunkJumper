@@ -1,7 +1,4 @@
-![20 yo french IT student](https://stuff.junkjumper-projects.com/wp-content/uploads/2020/08/bannerGithub.png)
-
 # 🍎 Hey there ! I'm JunkJumper, a shy 20 years old computer science student.
-
 - 🔭 I’m currently learning with my school :D
 - 🤔 I’m looking for help with mathematics because i'm bad D: 
 - 💬 Ask me about anything. If I can help you, i'll be glad to ^^ 
