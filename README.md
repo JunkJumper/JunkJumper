@@ -2,6 +2,7 @@
 - 🔭 I’m currently learning with my school :D
 - 🤔 I’m looking for help with mathematics because i'm bad D: 
 - 💬 Ask me about anything. If I can help you, i'll be glad to ^^ 
+- ⚥ Gender: Non-binary female
 - 😄 Pronouns: She/Her/They-em (Elle/Ælle)
 - ⚡ Fun fact: I like apples (because I love Applejack)
 
