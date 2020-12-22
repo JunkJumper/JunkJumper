@@ -1,4 +1,4 @@
-# 🍎 Hey there ! I'm JunkJumper, a shy 20 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 🍎 Hey there ! I'm PomPom, a shy 20 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🔭 I’m currently learning with my school :D
 - 🤔 I’m looking for help with mathematics because i'm bad D: 
 - 💬 Ask me about anything. If I can help you, i'll be glad to ^^ 
