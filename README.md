@@ -1,5 +1,5 @@
-# 🍎 Hey there ! I'm PomPom, a shy 20 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🔭 I’m currently doing my internship
+# 🍎 Hey there ! I'm PomPom, a shy 21 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 🔭 I’m currently doing my internship at [key4events](https://key4.events/)
 - 🤔 I’m looking for an apprenticeship for september 2021
 - 💬 Ask me about anything. If I can help you, i'll be glad to ^^ 
 - ⚥ Gender:  Demi-Girl (Non-binary female)
